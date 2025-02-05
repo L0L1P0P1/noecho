@@ -41,3 +41,6 @@ cd release
 ```bash
 ./noecho
 ```
+
+## Release 
+Check [Release](https://github.com/L0L1P0P1/noecho/releases) Tab.
