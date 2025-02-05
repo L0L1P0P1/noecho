@@ -1,0 +1,12 @@
+# [package] ?
+[package]
+# name of program
+name = "noecho"
+# version 
+version = "0.1.0"
+# edition 
+edition = "2021"
+
+# dependencies
+[dependencies]
+# is pretty independent (feature)
